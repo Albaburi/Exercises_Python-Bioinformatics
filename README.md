@@ -1,4 +1,4 @@
-# FINAL_TASK_Python-Bioinformatics
+# FINAL_EXERCISE_Python-Bioinformatics
 
 IDENTIFYING NEISSERIA SPECIES
 
